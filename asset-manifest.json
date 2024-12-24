@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0e3b9441.css",
-    "main.js": "/portfolio/static/js/main.515d5108.js",
-    "static/media/ProfilePicture.jpeg": "/portfolio/static/media/ProfilePicture.52ef7b9f048313346cf8.jpeg",
+    "main.css": "/portfolio/static/css/main.1bf6a74b.css",
+    "main.js": "/portfolio/static/js/main.eed3b1d5.js",
+    "static/media/PadelCoachingToolbox.png": "/portfolio/static/media/PadelCoachingToolbox.99dfd65da3e10a29a394.png",
+    "static/media/UGentBusinessGame.jpg": "/portfolio/static/media/UGentBusinessGame.d743863221709da33be9.jpg",
+    "static/media/DegageToken.png": "/portfolio/static/media/DegageToken.fa5f99d2f8ebd5a1b0de.png",
     "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/SportKompasVision.png": "/portfolio/static/media/SportKompasVision.4a87189f48df602c465b.png",
     "static/media/banner-background.png": "/portfolio/static/media/banner-background.3008278439568660cd72.png",
+    "static/media/ProfilePicture.jpeg": "/portfolio/static/media/ProfilePicture.83f185a8614479b7dbe6.jpeg",
+    "static/media/VR.png": "/portfolio/static/media/VR.4e7aac624411a776dbb0.png",
     "static/media/UGent.png": "/portfolio/static/media/UGent.6a07f18c37f8841dae92.png",
+    "static/media/PortfolioWebsite.png": "/portfolio/static/media/PortfolioWebsite.7ef62e6043fa2947c969.png",
     "static/media/nav-icon3.svg": "/portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/portfolio/index.html",
     "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.0e3b9441.css.map": "/portfolio/static/css/main.0e3b9441.css.map",
-    "main.515d5108.js.map": "/portfolio/static/js/main.515d5108.js.map"
+    "main.1bf6a74b.css.map": "/portfolio/static/css/main.1bf6a74b.css.map",
+    "main.eed3b1d5.js.map": "/portfolio/static/js/main.eed3b1d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e3b9441.css",
-    "static/js/main.515d5108.js"
+    "static/css/main.1bf6a74b.css",
+    "static/js/main.eed3b1d5.js"
   ]
 }
