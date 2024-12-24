@@ -2,6 +2,7 @@ import React from "react";
 import { Banner } from "./Banner";
 import { NavBar } from "./NavBar";
 import { Education } from "./Education";
+import { Experience } from "./Experience";
 import { Skills } from "./Skills";
 import { Projects } from "./Projects";
 import backgroundImage from "../assets/img/banner-background.png";
@@ -32,6 +33,7 @@ export const Parent = () => {
         <br></br>
         <br></br>
         <br></br>
+        <Experience />
         <Skills />
         <Projects />
       </div>
